@@ -1,0 +1,65 @@
+﻿  Bank Project 2.cpp
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUser.h(169,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project%202.cpp')
+      C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUser.h(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsBankClient.h(194,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project%202.cpp')
+      C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsBankClient.h(31,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsBankClient.h(413,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsBankClient.h(425,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUpdateClientScreen.h(39,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUpdateClientScreen.h(39,63): warning C4244:         with
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUpdateClientScreen.h(39,63): warning C4244:         [
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUpdateClientScreen.h(39,63): warning C4244:             T=double
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUpdateClientScreen.h(39,63): warning C4244:         ]
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsTotalBalancesScreen.h(53,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsTransferScreen.h(48,49): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsTransferScreen.h(48,49): warning C4244:         with
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsTransferScreen.h(48,49): warning C4244:         [
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsTransferScreen.h(48,49): warning C4244:             T=double
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsTransferScreen.h(48,49): warning C4244:         ]
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsCurrency.h(26,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%202.cpp')
+  
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsBankClient.h(371,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsUser.h(307,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\s\source\repos\Bank Project 2\Bank Project 2\clsBankClient.h(428,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  Bank Project 2.vcxproj -> C:\Users\s\source\repos\Bank Project 2\x64\Debug\Bank Project 2.exe
