@@ -37,13 +37,11 @@ Security Refresh: A tool to re-encrypt data files to ensure maximum protection.
 Modular Menus: Intuitive navigation through nested, organized screens.
 Formatted Tables: Data is displayed in neat, structured.
 
-🔐 Encryption Engine (5-Layers)
+🔐 Encryption Engine
 
 The system protects sensitive data using a custom-built cryptographic logic:
 
 XOR Cipher (Initial encryption)
-Random Padding (Noise injection)
-Case Inversion (Casing flip)
 Nested XOR (Double security)
 Hexadecimal (Final storage format)
 
